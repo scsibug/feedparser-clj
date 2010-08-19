@@ -1,6 +1,6 @@
 # feedparser-clj
 
-FIXME: write description
+Clone of feedparser for Clojure.
 
 ## Usage
 
@@ -12,6 +12,6 @@ FIXME: write
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2010 Greg Heartsfield
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the BSD-3 License.
