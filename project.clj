@@ -7,4 +7,3 @@
 		 [rome/rome "1.0"]]
   :dev-dependencies [[swank-clojure "1.2.1"]]
   :main feedparser-clj.core)
-

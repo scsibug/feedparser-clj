@@ -1,6 +1,7 @@
 # feedparser-clj
 
-Clone of feedparser for Clojure.
+Parse RSS/Atom feeds with a simple, clojure-friendly API.
+Uses the Java ROME library, wrapped in a feedparser-style interface.
 
 ## Usage
 
