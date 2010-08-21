@@ -9,7 +9,7 @@
            :encoding :entries :feed-type :image :language :link :entry-links
            :published-date :title :uri)
 (defstruct entry :authors :categories :contents :contributors :description
-           :enclosures :link :published-date :title :updated-date :uri)
+           :enclosures :link :published-date :title :updated-date :url)
 (defstruct enclosure :length :type :uri)
 (defstruct person :email :name :uri)
 (defstruct category :name :taxonomyURI)
@@ -27,7 +27,7 @@
 (defn make-enclosure "Create enclosure struct from SyndEnclosure"
   [e]
   (struct-map enclosure :length (.getLength e) :type (.getType e)
-              :uri (.getUri e)))
+              :url (.getUrl e)))
 
 (defn make-content "Create content struct from SyndContent"
   [c]
