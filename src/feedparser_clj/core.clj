@@ -17,13 +17,6 @@
 (defstruct image :description :link :title :url)
 (defstruct link :href :hreflang :length :rel :title :type)
 
-(defn -main "Show basic information for a feed, given a URL"
-  [feedurl]
-  (println "Using feed:" feedurl)
-  (def myfeed (parseFeed feedurl))
-  (println "Found" (count (:entries myfeed)) "entries")
-  (println myfeed))
-
 (defn make-enclosure "Create enclosure struct from SyndEnclosure"
   [e]
   (struct-map enclosure :length (.getLength e) :type (.getType e)
@@ -95,3 +88,10 @@
         xmlreader (new XmlReader (new URL feedurl))
         syndfeed (.build feedinput xmlreader)]
     (make-feed syndfeed)))
+
+(defn -main "Show basic information for a feed, given a URL"
+  [feedurl]
+  (println "Using feed:" feedurl)
+  (def myfeed (parseFeed feedurl))
+  (println "Found" (count (:entries myfeed)) "entries")
+  (println myfeed))
