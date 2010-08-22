@@ -1,9 +1,6 @@
 feedparser-clj
 ==============
 
-About
------
-
 Parse RSS/Atom feeds with a simple, clojure-friendly API.
 Uses the Java ROME library, wrapped in StructMaps.
 
@@ -43,7 +40,7 @@ Retrieve and parse a feed:
 
     user=> (def f (parseFeed "http://gregheartsfield.com/atom.xml"))
 
-`f` is a map that can be accessed by key to retrieve feed information:
+`f` is now a map that can be accessed by key to retrieve feed information:
 
     user=> (keys f)
     (:authors :categories :contributors :copyright :description :encoding :entries :feed-type :image :language :link :entry-links :published-date :title :uri)
@@ -68,7 +65,9 @@ Some feed attributes are maps themselves (like `:image`) or lists of structs (li
 Installation
 ------------
 
-FIXME: write
+ROME and JDOM are required dependencies, which may have to be manually retrieved and installed with Maven.  After that, simply clone this repository, and run:
+
+    lein install
 
 License
 -------
