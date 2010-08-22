@@ -21,16 +21,42 @@ There is only one function, `parseFeed`, which takes a URL and returns a StructM
 
 The following REPL session should give an idea about the capabilities and usage of `feedparser-clj`.
 
+Load the package into your namespace:
+
     user=> (ns user (:use feedparser-clj.core))
-    nil
+
+Retrieve and parse a feed in any of the following syndication formats: 
+ * RSS 0.90
+ * RSS 0.91 Netscape
+ * RSS 0.91 Userland
+ * RSS 0.92
+ * RSS 0.93
+ * RSS 0.94
+ * RSS 1.0
+ * RSS 2.0
+ * Atom 0.3
+ * Atom 1.0
+
     user=> (def f (parseFeed "http://gregheartsfield.com/atom.xml"))
-    #'user/f
+
+`f` is a map that can be accessed by key to retrieve feed information:
+
+    user=> (keys f)
+    (:authors :categories :contributors :copyright :description :encoding :entries :feed-type :image :language :link :entry-links :published-date :title :uri)
+
+A key applied to the feed gives the value, or nil if it was not defined for the feed.
+
     user=> (:title f)
     "Greg Heartsfield"
+
+Some feed attributes are maps themselves (like `:image`) or lists of structs (like `:entries` and `:authors`):
+
     user=> (map :email (:authors f))
     ("scsibug@imap.cc")
+
     user=> (count (:entries f))
     18
+
     user=> (map :title (take 3 (:entries f)))
     ("Version Control Diagrams with TikZ" "Introducing cabal2doap" "hS3, with ByteString")
 
