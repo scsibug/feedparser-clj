@@ -65,6 +65,8 @@ Some feed attributes are maps themselves (like `:image`) or lists of structs (li
 Installation
 ------------
 
+This library uses the [Leiningen](http://github.com/technomancy/leiningen#readme) build tool.
+
 ROME and JDOM are required dependencies, which may have to be manually retrieved and installed with Maven.  After that, simply clone this repository, and run:
 
     lein install
