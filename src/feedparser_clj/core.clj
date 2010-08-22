@@ -92,6 +92,6 @@
 (defn -main "Show basic information for a feed, given a URL"
   [feedurl]
   (println "Using feed:" feedurl)
-  (def myfeed (parseFeed feedurl))
-  (println "Found" (count (:entries myfeed)) "entries")
-  (println myfeed))
+  (let [myfeed (parseFeed feedurl)]
+    (println "Found" (count (:entries myfeed)) "entries")
+    (println myfeed)))
