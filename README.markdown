@@ -55,13 +55,21 @@ Some feed attributes are maps themselves (like `:image`) or lists of structs (li
     user=> (map :email (:authors f))
     ("scsibug@imap.cc")
 
+Check how many entries are in the feed:
+
     user=> (count (:entries f))
     18
+
+Look at the first few entry titles:
 
     user=> (map :title (take 3 (:entries f)))
     ("Version Control Diagrams with TikZ" "Introducing cabal2doap" "hS3, with ByteString")
 
- 
+Find the most recently updated entry's title:
+
+    user=> (first (map :title (reverse (sort-by :updated-date entries))))
+    "Version Control Diagrams with TikZ"
+
 Installation
 ------------
 
