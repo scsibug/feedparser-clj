@@ -82,7 +82,7 @@
               :title (.getTitle f)
               :uri (.getUri f)))
 
-(defn parseFeed "Get and parse a feed from a URL"
+(defn parse-feed "Get and parse a feed from a URL"
   [feedurl]
   (let [feedinput (new SyndFeedInput)
         xmlreader (new XmlReader (new URL feedurl))
@@ -92,6 +92,6 @@
 (defn -main "Show basic information for a feed, given a URL"
   [feedurl]
   (println "Using feed:" feedurl)
-  (let [myfeed (parseFeed feedurl)]
+  (let [myfeed (parse-feed feedurl)]
     (println "Found" (count (:entries myfeed)) "entries")
     (println myfeed)))

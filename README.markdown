@@ -27,7 +27,7 @@ Usage
 
 For a more detailed understanding about supported feed types and meanings, the ROME javadocs (under [`com.sun.syndication.feed.synd`](https://rome.dev.java.net/apidocs/0_8/com/sun/syndication/feed/synd/package-summary.html)) are a good resource.
 
-There is only one function, `parseFeed`, which takes a URL and returns a StructMap with all the feed's structure and content.
+There is only one function, `parse-feed`, which takes a URL and returns a StructMap with all the feed's structure and content.
 
 The following REPL session should give an idea about the capabilities and usage of `feedparser-clj`.
 
@@ -38,7 +38,7 @@ Load the package into your namespace:
 Retrieve and parse a feed: 
 
 
-    user=> (def f (parseFeed "http://gregheartsfield.com/atom.xml"))
+    user=> (def f (parse-feed "http://gregheartsfield.com/atom.xml"))
 
 `f` is now a map that can be accessed by key to retrieve feed information:
 
