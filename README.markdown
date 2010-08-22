@@ -5,18 +5,36 @@ About
 -----
 
 Parse RSS/Atom feeds with a simple, clojure-friendly API.
-Uses the Java ROME library, wrapped in a feedparser-style interface.
+Uses the Java ROME library, wrapped in StructMaps.
 
 Status
 ------
 
-Nothing really works yet... come back later.
+Usable for parsing and exploring feeds.  No escaping of potentially-malicious content is performed, and we've inherited any quirks that ROME itself has.
 
 Usage
 -----
 
-FIXME: write
+For a more detailed understanding about supported feed types and meanings, the ROME javadocs (under [`com.sun.syndication.feed.synd`](https://rome.dev.java.net/apidocs/0_8/com/sun/syndication/feed/synd/package-summary.html)) are a good resource.
 
+There is only one function, `parseFeed`, which takes a URL and returns a StructMap with all the feed's structure and content.
+
+The following REPL session should give an idea about the capabilities and usage of `feedparser-clj`.
+
+    user=> (ns user (:use feedparser-clj.core))
+    nil
+    user=> (def f (parseFeed "http://gregheartsfield.com/atom.xml"))
+    #'user/f
+    user=> (:title f)
+    "Greg Heartsfield"
+    user=> (map :email (:authors f))
+    ("scsibug@imap.cc")
+    user=> (count (:entries f))
+    18
+    user=> (map :title (take 3 (:entries f)))
+    ("Version Control Diagrams with TikZ" "Introducing cabal2doap" "hS3, with ByteString")
+
+ 
 Installation
 ------------
 
@@ -31,5 +49,3 @@ Copyright
 ---------
 
 Copyright (C) 2010 Greg Heartsfield
-
-
