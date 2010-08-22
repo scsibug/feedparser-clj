@@ -59,6 +59,11 @@ Check how many entries are in the feed:
     user=> (count (:entries f))
     18
 
+Determine the feed type:
+
+    user=> (:feed-type f)
+    "atom_1.0"
+
 Look at the first few entry titles:
 
     user=> (map :title (take 3 (:entries f)))
