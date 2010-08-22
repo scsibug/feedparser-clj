@@ -12,6 +12,19 @@ Status
 
 Usable for parsing and exploring feeds.  No escaping of potentially-malicious content is performed, and we've inherited any quirks that ROME itself has.
 
+Supports the following syndication formats:
+
+* RSS 0.90
+* RSS 0.91 Netscape
+* RSS 0.91 Userland
+* RSS 0.92
+* RSS 0.93
+* RSS 0.94
+* RSS 1.0
+* RSS 2.0
+* Atom 0.3
+* Atom 1.0
+
 Usage
 -----
 
@@ -25,18 +38,8 @@ Load the package into your namespace:
 
     user=> (ns user (:use feedparser-clj.core))
 
-Retrieve and parse a feed in any of the following syndication formats: 
+Retrieve and parse a feed: 
 
-* RSS 0.90
-* RSS 0.91 Netscape
-* RSS 0.91 Userland
-* RSS 0.92
-* RSS 0.93
-* RSS 0.94
-* RSS 1.0
-* RSS 2.0
-* Atom 0.3
-* Atom 1.0
 
     user=> (def f (parseFeed "http://gregheartsfield.com/atom.xml"))
 
