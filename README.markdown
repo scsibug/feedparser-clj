@@ -33,10 +33,9 @@ The following REPL session should give an idea about the capabilities and usage 
 
 Load the package into your namespace:
 
-    user=> (ns user (:use feedparser-clj.core))
+    user=> (ns user (:use feedparser-clj.core) (:require [clojure.contrib.string :as string]))
 
 Retrieve and parse a feed: 
-
 
     user=> (def f (parse-feed "http://gregheartsfield.com/atom.xml"))
 
@@ -69,6 +68,14 @@ Find the most recently updated entry's title:
 
     user=> (first (map :title (reverse (sort-by :updated-date entries))))
     "Version Control Diagrams with TikZ"
+
+Compute what percentage of entries have the phrase "haskell" in the body (uses clojure.contrib.string):
+
+    user=> (let [es (:entries f)] 
+               (* 100.0 (/ (count (filter #(string/substring? "haskell" 
+                   (:value (first (:contents %)))) es))
+               (count es))))
+    55.55555555555556
 
 Installation
 ------------
