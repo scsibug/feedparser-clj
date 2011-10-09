@@ -82,16 +82,22 @@
               :title (.getTitle f)
               :uri (.getUri f)))
 
-(defn parse-feed "Get and parse a feed from a URL"
-  [feedurl]
+(defn- parse-internal [xmlreader]
   (let [feedinput (new SyndFeedInput)
-        xmlreader (new XmlReader (new URL feedurl))
         syndfeed (.build feedinput xmlreader)]
     (make-feed syndfeed)))
 
+(defn parse-feed "Get and parse a feed from a URL"
+  ([feedsource]
+     (parse-internal (new XmlReader (if (string? feedsource)
+                                      (URL. feedsource)
+                                      feedsource))))
+  ([feedsource content-type]
+     (parse-internal (new XmlReader feedsource content-type))))
+
 (defn -main "Show basic information for a feed, given a URL"
-  [feedurl]
-  (println "Using feed:" feedurl)
-  (let [myfeed (parse-feed feedurl)]
+  [feedsource]
+  (println "Using feed:" feedsource)
+  (let [myfeed (parse-feed feedsource)]
     (println "Found" (count (:entries myfeed)) "entries")
     (println myfeed)))
