@@ -49,6 +49,11 @@ A key applied to the feed gives the value, or nil if it was not defined for the 
     user=> (:title f)
     "Greg Heartsfield"
 
+Feed/entry ID or GUID can be obtained with the `:uri` key:
+
+    user=> (:uri f)
+    "http://gregheartsfield.com/"
+
 Some feed attributes are maps themselves (like `:image`) or lists of structs (like `:entries` and `:authors`):
 
     user=> (map :email (:authors f))
