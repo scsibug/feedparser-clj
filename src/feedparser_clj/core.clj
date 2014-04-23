@@ -4,8 +4,7 @@
            (java.io InputStreamReader Reader)
            (com.sun.syndication.feed.synd SyndFeed SyndFeedImpl)
            (com.sun.syndication.io WireFeedInput SAXBuilder)
-           (org.xml.sax InputSource))
-  (:gen-class))
+           (org.xml.sax InputSource)))
 
 (defstruct feed :authors :categories :contributors :copyright :description
            :encoding :entries :feed-type :image :language :link :entry-links
@@ -110,10 +109,3 @@
                                       feedsource))))
   ([feedsource content-type]
      (parse-internal (new XmlReader feedsource content-type))))
-
-(defn -main "Show basic information for a feed, given a URL"
-  [feedsource]
-  (println "Using feed:" feedsource)
-  (let [myfeed (parse-feed feedsource)]
-    (println "Found" (count (:entries myfeed)) "entries")
-    (println myfeed)))
