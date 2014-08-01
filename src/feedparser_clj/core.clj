@@ -9,7 +9,7 @@
            :encoding :entries :feed-type :image :language :link :entry-links
            :published-date :title :uri)
 (defstruct entry :authors :categories :contents :contributors :description
-           :enclosures :link :published-date :title :updated-date :url)
+           :enclosures :link :published-date :title :updated-date :uri)
 (defstruct enclosure :length :type :uri)
 (defstruct person :email :name :uri)
 (defstruct category :name :taxonomyURI)
