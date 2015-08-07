@@ -1,10 +1,9 @@
 (ns feedparser-clj.core
-  (:import (com.sun.syndication.io SyndFeedInput XmlReader)
+  (:import (com.sun.syndication.io SyndFeedInput XmlReader WireFeedInput)
            (java.net URL)
-           (java.io InputStreamReader Reader)
-           (com.sun.syndication.feed.synd SyndFeed SyndFeedImpl)
-           (com.sun.syndication.io WireFeedInput SAXBuilder)
-           (org.xml.sax InputSource)))
+           (java.io Reader)
+           (com.sun.syndication.feed.synd SyndFeedImpl)
+           (javax.xml XMLConstants)))
 
 (defstruct feed :authors :categories :contributors :copyright :description
            :encoding :entries :feed-type :image :language :link :entry-links
@@ -88,7 +87,7 @@
   (proxy [WireFeedInput] []
     (createSAXBuilder []
       (doto (proxy-super createSAXBuilder)
-        (.setFeature javax.xml.XMLConstants/FEATURE_SECURE_PROCESSING true)
+        (.setFeature XMLConstants/FEATURE_SECURE_PROCESSING true)
         (.setFeature "http://apache.org/xml/features/disallow-doctype-decl" true)))))
 
 (defn ^SyndFeedInput gen-syndfeedinput
