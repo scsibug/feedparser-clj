@@ -1,17 +1,16 @@
 (ns feedparser-clj.core
-  (:import (com.sun.syndication.io SyndFeedInput XmlReader)
-           (java.net URL)
-           (java.io InputStreamReader)
-           (com.sun.syndication.feed.synd SyndFeed))
+  (:import [com.sun.syndication.io SyndFeedInput XmlReader]
+           [java.net URL]
+           [java.io InputStreamReader]
+           [com.sun.syndication.feed.synd SyndFeed])
   (:gen-class))
-
 
 (defrecord feed [authors categories contributors copyright description
                  encoding entries feed-type image language link entry-links
                  published-date title uri])
 
 (defrecord entry [authors categories contents contributors description
-           enclosures link published-date title updated-date url])
+                  enclosures link published-date title updated-date url])
 
 (defrecord enclosure [length type uri])
 
