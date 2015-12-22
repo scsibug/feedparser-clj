@@ -1,8 +1,8 @@
 (ns feedparser-clj.core
-  (:import (com.sun.syndication.io SyndFeedInput XmlReader WireFeedInput)
+  (:import (com.rometools.rome.io SyndFeedInput XmlReader WireFeedInput)
            (java.net URL)
            (java.io Reader InputStream File)
-           (com.sun.syndication.feed.synd SyndFeedImpl SyndFeed SyndEntry SyndImage SyndPerson SyndCategory SyndLink SyndContent SyndEnclosure)
+           (com.rometools.rome.feed.synd SyndFeedImpl SyndFeed SyndEntry SyndImage SyndPerson SyndCategory SyndLink SyndContent SyndEnclosure)
            (javax.xml XMLConstants)))
 
 
@@ -118,4 +118,4 @@
                        :else (throw (ex-info "Unsupported source" {:source feedsource
                                                                    :type (type feedsource)})))))
   ([feedsource content-type]
-     (parse-internal (new XmlReader ^InputStream feedsource content-type))))
+     (parse-internal (new XmlReader ^InputStream feedsource true content-type))))
