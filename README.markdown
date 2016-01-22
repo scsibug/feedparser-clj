@@ -105,7 +105,7 @@ Installation
 
 This library uses the [Leiningen](http://github.com/technomancy/leiningen#readme) build tool.
 
-Simple add the following dependency in your project.clj.
+Simply add the following dependency in your project.clj.
 
 [![Clojars Project](https://img.shields.io/clojars/v/org.clojars.scsibug/feedparser-clj.svg)](https://clojars.org/org.clojars.scsibug/feedparser-clj)
 
