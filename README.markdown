@@ -2,7 +2,7 @@ feedparser-clj
 ==============
 
 Parse RSS/Atom feeds with a simple, clojure-friendly API.
-Uses the Java ROME library, wrapped in StructMaps.
+Uses the Java ROME library, wrapped in Clojure records.
 
 Status
 ------
@@ -105,9 +105,9 @@ Installation
 
 This library uses the [Leiningen](http://github.com/technomancy/leiningen#readme) build tool.
 
-ROME and JDOM are required dependencies, which may have to be manually retrieved and installed with Maven.  After that, simply clone this repository, and run:
+Simple add the following dependency in your project.clj.
 
-    lein install
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.scsibug/feedparser-clj.svg)](https://clojars.org/org.clojars.scsibug/feedparser-clj)
 
 License
 -------
