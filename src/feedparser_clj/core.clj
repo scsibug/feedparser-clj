@@ -104,9 +104,9 @@
    (parse-internal (XmlReader. (string->url feedsource))))
   ([feedsource content-type]
    (parse-internal (XmlReader. (string->url feedsource) content-type)))
-  ([deefsource content-type lenient]
+  ([feedsource content-type lenient]
    (parse-internal (XmlReader. (string->url feedsource) content-type lenient)))
-  ([deefsource content-type lenient default-encoding]
+  ([feedsource content-type lenient default-encoding]
    (parse-internal (XmlReader. (string->url feedsource) content-type lenient default-encoding))))
 
 (defn -main "Show basic information for a feed, given a URL"
