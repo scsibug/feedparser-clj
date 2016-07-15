@@ -33,11 +33,11 @@ The following REPL session should give an idea about the capabilities and usage 
 
 Load the package into your namespace:
 
-    user=> (ns user (:use feedparser-clj.core) (:require [clojure.contrib.string :as string]))
+    user=> (ns user (:use feedparser-clj.core) (:require [clojure.string :as string]))
 
 Retrieve and parse a feed: 
 
-    user=> (def f (parse-feed "http://gregheartsfield.com/atom.xml"))
+    user=> (def f (parse-feed "https://gregheartsfield.com/atom.xml"))
 
 `parse-feed` also accepts a java.io.InputStream for reading from a file or other sources (see [clojure.java.io/input-stream](http://richhickey.github.com/clojure/clojure.java.io-api.html#clojure.java.io/input-stream)):
 
