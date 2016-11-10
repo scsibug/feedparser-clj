@@ -79,6 +79,7 @@
                :contributors (map make-person (seq (.getContributors f)))
                :copyright (.getCopyright f)
                :description (.getDescription f)
+               :generator (.getGenerator f)
                :encoding (.getEncoding f)
                :entries (map make-entry (seq (.getEntries f)))
                :feed-type (.getFeedType f)
