@@ -1,0 +1,45 @@
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pl="http://xml.theplatform.com/data/object" xmlns:pllist="http://xml.theplatform.com/data/list" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:plrelease="http://xml.theplatform.com/media/data/Release" xmlns:plfile="http://xml.theplatform.com/media/data/MediaFile" xmlns:pla="http://xml.theplatform.com/data/object/admin" xmlns:plmedia="http://xml.theplatform.com/media/data/Media" xmlns:bbg="http://xml.bloomberg.com/fields" version="2.0">
+<channel>
+<title>Dive Networks- Bloomberg Business Feed</title>
+<link>http://url.messed.up.beyond.all.repair/ohnoes</link>
+<description>Dive Networks- Bloomberg Business Feed</description>
+<item>
+<guid isPermaLink="false">abc-guid-best-guid</guid>
+<title>Apple iPhone Suppliers Are Struggling</title>
+<description>
+May 11 -- Three of Apple's Asian suppliers of iPhone parts offered a bleak view for the company with their earnings results. Bloomberg Intelligence's Anand Srinivasan reports on "Bloomberg Markets."
+</description>
+<media:category scheme="http://www.bloomberg.com" label="ASIA">Asia; Pacific Rim</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDUSTV">Bloomberg Vid; U.S. TV Source</media:category>
+<media:category scheme="http://www.bloomberg.com" label="COS">Company News</media:category>
+<media:category scheme="http://www.bloomberg.com" label="US">United States</media:category>
+<media:category scheme="http://www.bloomberg.com" label="">Audio/Video</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDTEC">Technology</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDMLDBIZ">Syndication Business Package</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDMLDUS">Syndication Top US Feed</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDMLDTEC">Syndication Tech Package</media:category>
+<media:category scheme="http://www.bloomberg.com" label="GEN">General News</media:category>
+<media:category scheme="http://www.bloomberg.com" label="ERN">Earnings</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDEAR">BTV Web Video Earnings</media:category>
+<media:category scheme="http://www.bloomberg.com" label="MAG">Bloomberg Markets</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDMMBIZ">Digi Video; Multi Biz Vert</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDINFORM">BIntent Inform</media:category>
+<media:keywords>
+Apple Inc.,AAPL:US,Scarlet Fu,Anand Srinivasan,Asia; Pacific Rim,Bloomberg Vid; U.S. TV Source,Company News,United States,Bloomberg.com Web Submit,Audio/Video,Technology,Syndication Business Package,Syndication Top US Feed,Editors' Picks,Syndication Tech Package,General News,Earnings,BTV Web Video Earnings,Bloomberg Markets,Digi Video; Multi Biz Vert,BIntent Inform,Apple, iPhone
+</media:keywords>
+<media:subTitle type="application/ttml+xml" lang="en-us" url="http://if.you.come.here/you/probably/wont/find/anything"/>
+<media:content bitrate="1800" medium="video" duration="185" expression="full" fileSize="42605992" type="video/mp4" height="720" isDefault="false" url="http://blah.blah.blah/nice-url/da-video.mp88" width="1280"/>
+<media:thumbnail expression="full" type="image/jpeg" height="360" isDefault="false" url="http://assets.stored.somewhere.secret/look-at-me.jpg" width="640"/>
+<pubDate>Wed, 11 May 2016 17:44:19 GMT</pubDate>
+<bbg:companyTicker>AAPL:US</bbg:companyTicker>
+</item>
+<item>
+<guid isPermaLink="false">asdf-1234-asdf-1234</guid>
+<title>David Rubenstein: Oil Back to $70 Range Next Year</title>
+<description>
+May 11 -- Something important happened, so we are investigating. Stay tuned!!
+</description>
+<pubDate>Wed, 11 May 2016 17:56:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -35,7 +35,7 @@ Load the package into your namespace:
 
     user=> (ns user (:use feedparser-clj.core) (:require [clojure.contrib.string :as string]))
 
-Retrieve and parse a feed: 
+Retrieve and parse a feed:
 
     user=> (def f (parse-feed "http://gregheartsfield.com/atom.xml"))
 
@@ -94,8 +94,8 @@ Find the most recently updated entry's title:
 
 Compute what percentage of entries have the word "haskell" in the body (uses `clojure.contrib.string`):
 
-    user=> (let [es (:entries f)] 
-               (* 100.0 (/ (count (filter #(string/substring? "haskell" 
+    user=> (let [es (:entries f)]
+               (* 100.0 (/ (count (filter #(string/substring? "haskell"
                    (:value (first (:contents %)))) es))
                (count es))))
     55.55555555555556
@@ -108,6 +108,11 @@ This library uses the [Leiningen](http://github.com/technomancy/leiningen#readme
 ROME and JDOM are required dependencies, which may have to be manually retrieved and installed with Maven.  After that, simply clone this repository, and run:
 
     lein install
+
+Tests
+-----
+
+Run `lein test`.
 
 License
 -------

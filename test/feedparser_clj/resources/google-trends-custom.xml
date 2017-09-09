@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<rss version="2.0"
+  xmlns:ht="http://www.google.com/trends/hottrends"
+  xmlns:mi="http://www.google.com/trends/hottrends"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hot Trends</title>
+    <link>https://www.google.com/trends/hottrends?pn=p1</link>
+    <atom:link href="https://www.google.com/trends/hottrends/atom/feed?pn=p1" rel="self" type="application/rss+xml" />
+    <description>Recent hot searches</description>
+    <item>
+      <title>Merrick Garland</title>
+      <description>Sri Srinivasan, Supreme Court, Supreme Court nomination, Garland, Judge Merrick Garland, Mitch McConnell, Obama Supreme Court Nominee, SCOTUS</description>
+      <link>https://www.google.com/trends/hottrends?pn=p1#a=20160316-Merrick+Garland</link>
+      <pubDate>Wed, 16 Mar 2016 05:00:00 -0700</pubDate>
+      <ht:picture>//t3.gstatic.com/images?q=tbn:ANd9GcQfgpW-VQEdBHDEZ1XqC1pQ_KsnvGA0KXC5uaNpsVbfu0XUCMhP0udQNTBzybD6ESbJVZ6wH4QH</ht:picture>
+      <ht:picture_source>Chicago Tribune</ht:picture_source>
+      <ht:picture_source>Made-up source</ht:picture_source>
+      <ht:approx_traffic>1,000,000+</ht:approx_traffic>
+      <mi:news_item_title>Obama nominates &lt;b&gt;Merrick Garland&lt;/b&gt; for Supreme Court</mi:news_item_title>
+      <mi:news_item_snippet>Calling him &amp;quot;one of America&amp;#39;s sharpest legal minds,&amp;quot; President Barack Obama nominated federal appeals court Judge &lt;b&gt;Merrick Garland&lt;/b&gt; to the Supreme Court on Wednesday. The nomination of Garland, who grew up in the Chicago suburb of Lincolnwood and&amp;nbsp;...</mi:news_item_snippet>
+      <mi:news_item_url>http://www.chicagotribune.com/news/nationworld/politics/ct-supreme-court-nominee-merrick-garland-20160316-story.html</mi:news_item_url>
+      <mi:news_item_source>Chicago Tribune</mi:news_item_source>
+    </item>
+  </channel>
+</rss>

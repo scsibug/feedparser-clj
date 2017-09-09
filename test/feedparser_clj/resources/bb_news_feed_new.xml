@@ -1,0 +1,26 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+   <channel>
+      <title>Bloomberg: TEXT</title>
+      <link>http://www.bloomberg.com</link>
+      <description>Publish - Onweb With Photo</description>
+      <pubDate>Fri, 13 May 2016 13:51:49 GMT</pubDate>
+      <lastBuildDate>Fri, 13 May 2016 13:51:49 GMT</lastBuildDate>
+      <item>
+         <guid isPermaLink="false">023FANV932</guid>
+         <pubDate>Fri, 13 May 2016 13:11:32 GMT</pubDate>
+         <title>Is Sears or Gitmo a Worse Problem?: Shelly Banjo &amp; Tobin Harshaw</title>
+         <category>i</category>
+         <author>Shelly Banjo and Tobin Harshaw</author>
+         <description>&lt;p>blah blah blah, I am the description :)&lt;/p></description>
+         <media:keywords>ALLTOP, ALLWWCUR, BANJO, BBVCOL, BIZNEWS, BVIEW, BVIEWTEAM, BVTOP, BVTOPZ3, COMTOP, FLOWCMS, GADFLY, GEN, GENNEWS, GOWEB, HARSHAW, HLNOVEL, GD, MTLRYLAW, NOVEL, NOVELTY9, NYX, ONWEB, OPINION, ORIGINAL, READ25, RET, TERROR, USBNX, ALLFEA, ATTACHMENT, BGOVBILLGO, BGOVCODES, BNALL, BNSTAFF, BNTEAMS, BUSINESS, SRCRANK5, COLUMNISTS, COLUMNS, SASBLG4, SASBGEN, SASBCODES, PHOTO, MISC, INTERNAL, GENEVENT, HLNOVELTY9, COS, INDUSTRIES, WORLD, CONS, SPREGIONS, CARIB, LATAM, EM, CUBA, ESGCONTROV, LAWPRAC, ESGRES, LAW, RETD, TEC, INTERNET, ECOM, CONSD, REL, FIN</media:keywords>
+         <media:credit>Shelly Banjo and Tobin Harshaw</media:credit>
+         <media:copyright>©2016 Bloomberg L.P.</media:copyright>
+         <media:description>lalala, I am a media description.</media:description>
+         <media:category scheme="http://generic-category-scheme.com">i</media:category>
+         <media:text>BC-SEARS-HAS-PROBLEMS-GITMO-HAS-BIGGER-ONES</media:text>
+         <media:content medium="document" expression="full" type="text/vnd.IPTC.NewsML" lang="EN" url="some-document-url"/>
+         <media:thumbnail url="very_literal_thumbnail_url"/>
+         <media:content medium="image" expression="full" type="image/jpeg" lang="" url="very-literal-image-url"/>
+      </item>
+   </channel>
+</rss>
