@@ -33,7 +33,7 @@ The following REPL session should give an idea about the capabilities and usage 
 
 Load the package into your namespace:
 
-    user=> (ns user (:use feedparser-clj.core) (:require [clojure.contrib.string :as string]))
+    user=> (require '[feedparser-clj.core :as fp :refer [parse-feed]])
 
 Retrieve and parse a feed: 
 
