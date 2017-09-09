@@ -35,7 +35,7 @@ Load the package into your namespace:
 
     user=> (require '[feedparser-clj.core :refer [parse-feed]])
 
-Retrieve and parse a feed: 
+Retrieve and parse a feed:
 
     user=> (def f (parse-feed "https://clojure.org/feed.xml"))
 
@@ -101,6 +101,11 @@ This library uses the [Leiningen](http://github.com/technomancy/leiningen#readme
 Simply add the following dependency in your project.clj.
 
 [![Clojars Project](https://img.shields.io/clojars/v/org.clojars.scsibug/feedparser-clj.svg)](https://clojars.org/org.clojars.scsibug/feedparser-clj)
+
+Tests
+-----
+
+Run `lein test`.
 
 License
 -------

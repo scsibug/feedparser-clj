@@ -2,6 +2,7 @@
 /feedparser-clj-0.3.jar
 /pom.xml
 /target
+.lein-*
+.nrepl-port
 *.swp
-/.lein-repl-history
-/.nrepl-port
+*.log

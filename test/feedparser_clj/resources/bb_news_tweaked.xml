@@ -1,0 +1,36 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+   <channel>
+      <title>Bloomberg: TEXT</title>
+      <link>http://www.bloomberg.com</link>
+      <description>Morgan Stanley Digital Signage - OnWeb</description>
+      <pubDate>Mon, 09 May 2016 21:35:26 GMT</pubDate>
+      <lastBuildDate>Mon, 09 May 2016 21:35:26 GMT</lastBuildDate>
+      <item>
+         <pubDate>Mon, 09 May 2016 21:12:21 GMT</pubDate>
+         <title>JD.com Falls as Sales Volume Slows With China Growth Concern (1)</title>
+         <category/>
+         <author>Bonnie Cao</author>
+         <description>(Bloomberg) -- JD.com Inc., China’s second-biggest online retailer, plunged after it reported flagging sales growth on its marketplaces and management expressed concern about the country’s economic slowdown.</description>
+         <media:credit>Bonnie Cao</media:credit>
+         <media:copyright>©2016 Bloomberg L.P.</media:copyright>
+         <media:description>(Bloomberg) -- JD.com Inc., China’s second-biggest online retailer, plunged after it reported flagging sales growth on its marketplaces and management expressed concern about the country’s economic slowdown.</media:description>
+         <media:text>BC-JD-COM-BN</media:text>
+         <media:content medium="image" expression="full" type="image/jpeg" lang="" url="http://assets.bwbx.io/images/iUxagUQ3TzhI/v1/-1x-1.jpg"/>
+         <media:content medium="image" expression="full" type="image/jpeg" lang="" url="http://assets.bwbx.io/images/iUxagUQ3TzhI/v1/-1x-1.jpg"/>
+         <guid isPermaLink="false">O6X0F26KLVR701</guid>
+         <media:content bitrate="1800" medium="video" duration="185" expression="full" fileSize="42605992" type="video/mp4" height="720" isDefault="false" url="http://cdn3.videos.bloomberg.com/m/Njc2NDExNg/GkPykZWS7We3MTFdngb4.5IPQ1O.cQ3x5pS6pWGL6Zk1ZTMw/srininvasan12550511d_1800.mp4" width="1280"/>
+      </item>
+      <item>
+         <pubDate>Mon, 09 May 2016 21:09:38 GMT</pubDate>
+         <title>Brazil Markets Thrown Into Disarray as Impeachment Vote Annulled</title>
+         <category/>
+         <author>Filipe Pacheco and Paula Sambo</author>
+         <description>(Bloomberg) -- Brazilian markets were thrown into turmoil after the effort to impeach President Dilma Rousseff appeared to hit a roadblock, spurring concern that some of the world’s biggest stock and currency rallies would be undone.</description>
+         <media:credit>Filipe Pacheco and Paula Sambo</media:credit>
+         <media:copyright>©2016 Bloomberg L.P.</media:copyright>
+         <media:description>(Bloomberg) -- Brazilian markets were thrown into turmoil after the effort to impeach President Dilma Rousseff appeared to hit a roadblock, spurring concern that some of the world’s biggest stock and currency rallies would be undone.</media:description>
+         <media:text>BC-BRAZIL-MARKETS</media:text>
+         <guid isPermaLink="false">O6X0US6S972U01</guid>
+      </item>
+   </channel>
+</rss>
