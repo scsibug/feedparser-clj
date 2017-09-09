@@ -93,14 +93,6 @@ Find the most recently updated entry's title:
     user=> (first (map :title (reverse (sort-by :updated-date (:entries f)))))
     "Version Control Diagrams with TikZ"
 
-Compute what percentage of entries have the word "haskell" in the body (uses `clojure.contrib.string`):
-
-    user=> (let [es (:entries f)] 
-               (* 100.0 (/ (count (filter #(string/substring? "haskell" 
-                   (:value (first (:contents %)))) es))
-               (count es))))
-    55.55555555555556
-
 Installation
 ------------
 
