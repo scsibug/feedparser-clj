@@ -33,7 +33,7 @@ The following REPL session should give an idea about the capabilities and usage 
 
 Load the package into your namespace:
 
-    user=> (require '[feedparser-clj.core :as fp :refer [parse-feed]])
+    user=> (require '[feedparser-clj.core :refer [parse-feed]])
 
 Retrieve and parse a feed: 
 
