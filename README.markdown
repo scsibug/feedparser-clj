@@ -39,6 +39,11 @@ Retrieve and parse a feed:
 
     user=> (def f (parse-feed "https://clojure.org/feed.xml"))
 
+`f` is now a map that can be accessed by key to retrieve feed information:
+
+    user=> (keys f)
+    (:authors :categories :contributors :copyright :description :encoding :entries :feed-type :image :language :link :entry-links :published-date :title :uri :generator)
+
 `parse-feed` also accepts a java.io.InputStream for reading from a file or other sources (see [clojure.java.io/input-stream](http://richhickey.github.com/clojure/clojure.java.io-api.html#clojure.java.io/input-stream)):
 
     ;; Contents of resources/feed.rss
@@ -52,10 +57,6 @@ Retrieve and parse a feed:
                                      clojure.java.io/input-stream)]
                     (parse-feed feed-stream)))
 
-`f` is now a map that can be accessed by key to retrieve feed information:
-
-    user=> (keys f)
-    (:authors :categories :contributors :copyright :description :encoding :entries :feed-type :image :language :link :entry-links :published-date :title :uri)
 
 A key applied to the feed gives the value, or nil if it was not defined for the feed.
 
