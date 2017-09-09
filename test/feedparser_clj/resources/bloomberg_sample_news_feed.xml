@@ -1,0 +1,33 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+   <channel>
+      <title>Bloomberg: TEXT</title>
+      <link>http://www.bloomberg.com</link>
+      <description>Morgan Stanley Digital Signage - OnWeb</description>
+      <pubDate>Mon, 09 May 2016 21:35:26 GMT</pubDate>
+      <lastBuildDate>Mon, 09 May 2016 21:35:26 GMT</lastBuildDate>
+      <item>
+         <pubDate>Mon, 09 May 2016 21:12:21 GMT</pubDate>
+         <title>Shocking news title shocks the news reader (1)</title>
+         <category/>
+         <author>Bonnie Cao</author>
+         <description>So shock, much tears</description>
+         <media:credit>Bonnie Cao</media:credit>
+         <media:copyright>©2016 Bloomberg L.P.</media:copyright>
+         <media:description>So media, much description</media:description>
+         <media:text>CODE-CODE-CODE</media:text>
+         <guid isPermaLink="false">ASDF1234ASDF1234</guid>
+      </item>
+      <item>
+         <pubDate>Mon, 09 May 2016 13:15:05 GMT</pubDate>
+         <title>I am a silly title &amp; don't mind me</title>
+         <category/>
+         <author>some dev</author>
+         <description>The best description ever</description>
+         <media:credit>some dev</media:credit>
+         <media:copyright>©2016 The Important Company</media:copyright>
+         <media:description>Once upon a time... the end.</media:description>
+         <media:text>LKS-DFAG-NFAWEL-DNAW-BMOE-NO-NNEWDA-NKOIA-</media:text>
+         <guid isPermaLink="false">ASDF</guid>
+      </item>
+   </channel>
+</rss>

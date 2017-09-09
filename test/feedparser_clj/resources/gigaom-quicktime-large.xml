@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:ddn="http://discoverydn.com/about">
+    <channel>
+        <title>The GigaOm Show</title>
+        <link>http://revision3.com/gigaom/</link>
+        <description>The GigaOm Show, hosted by Om Malik and Joyce Kim, is a weekly show about technology and business. Om and Joyce serve up the inside analysis of  technology news that you need to know.</description>
+        <language>en-us</language>
+                                                                <itunes:category text="Technology">
+                                                    <itunes:category text="Tech News"/>
+                                            </itunes:category>
+                        <itunes:explicit>no</itunes:explicit>
+        <itunes:summary>The GigaOm Show, hosted by Om Malik and Joyce Kim, is a weekly show about technology and business. Om and Joyce serve up the inside analysis of  technology news that you need to know.</itunes:summary>
+        <itunes:subtitle>The GigaOm Show, hosted by Om Malik and Joyce Kim, is a weekly show about technology and business. Om and Joyce serve up the inside analysis of  technology news that you need to know.</itunes:subtitle>
+        <itunes:author>Revision3</itunes:author>
+        <itunes:owner>
+            <itunes:email>feedback@revision3.com</itunes:email>
+            <itunes:name>Revision3</itunes:name>
+        </itunes:owner>
+        <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:keywords>business, gigaom, om malik, revision3, silicon valley, tech, technology, vc, venture, venture capital, web 2, web 2.0</itunes:keywords>
+                <image>
+            <title>The GigaOm Show</title>
+            <width>100</width>
+            <height>100</height>
+            <link>http://revision3.com/gigaom/</link>
+            <url>http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_100x100.jpg</url>
+        </image>
+                    <atom:link rel="self" type="application/rss+xml" title="The GigaOm Show"
+                       href="http%3A%2F%2Frevision3.ddn.io%2Fgigaom%2Ffeed%2Fquicktime-large" />
+                        <item>
+                    <title>Interview: Sun&#039;s Savior and CEO Jonathan Schwartz, GigaOm Hiatus</title>
+                    <link>http://revision3.com/gigaom/hiatus/</link>
+                    <description>
+                        This week meet Jonathan Schwartz, CEO and President of Sun Microsystems. Learn how he helped the company earn $3.615 billion in revenue for the 08&#039; fiscal Q2. Plus, Om and Joyce say farewell to season one. The GigaOM show will be taking a brief hiatus.
+                    </description>
+                    <content:encoded>
+                        This week meet Jonathan Schwartz, CEO and President of Sun Microsystems. Learn how he helped the company earn $3.615 billion in revenue for the 08&#039; fiscal Q2. Plus, Om and Joyce say farewell to season one. The GigaOM show will be taking a brief hiatus.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 27 Mar 2008 23:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>1707</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>final episode, sun microsystems, hiatus</itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        This week meet Jonathan Schwartz, CEO and President of Sun Microsystems. Learn how he helped the company earn $3.615 billion in revenue for the 08' fiscal Q2. Plus, Om and Joyce say farewell to season one. The GigaOM show will be taking a brief hiatus.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">864</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0035/gigaom--0035--hiatus--large.h264.m4v"
+                               length="240336581"
+                               type="video/x-m4v"/>
+                    <media:content duration="1707"
+                                   medium="video"
+                                   fileSize="240336581"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0035/gigaom--0035--hiatus--large.h264.m4v"
+                                   type="video/x-m4v">
+                        <media:title>Interview: Sun&#039;s Savior and CEO Jonathan Schwartz, GigaOm Hiatus</media:title>
+                        <media:description>
+                            This week meet Jonathan Schwartz, CEO and President of Sun Microsystems. Learn how he helped the company earn $3.615 billion in revenue for the 08&#039; fiscal Q2. Plus, Om and Joyce say farewell to season one. The GigaOM show will be taking a brief hiatus.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0035/gigaom--0035--hiatus--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0035/gigaom--0035--hiatus--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0035/gigaom--0035--hiatus--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0035/gigaom--0035--hiatus--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/hiatus/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords>final episode, sun microsystems, hiatus</media:keywords>
+                                            </media:content>
+                    <ddn:id>864</ddn:id>
+                    <ddn:episode_id>864</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Forget Twitter: Seesmic.com creates online video converations</title>
+                    <link>http://revision3.com/gigaom/seesmic/</link>
+                    <description>
+                        Seesmic.com has been described as the video version of Twitter.  Loic Le Meur, fouder and CEO of Seesmic, joins us to discuss whether online video conversation will be the next big thing.
+                    </description>
+                    <content:encoded>
+                        Seesmic.com has been described as the video version of Twitter.  Loic Le Meur, fouder and CEO of Seesmic, joins us to discuss whether online video conversation will be the next big thing.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 20 Mar 2008 23:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>980</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Seesmic.com has been described as the video version of Twitter.  Loic Le Meur, fouder and CEO of Seesmic, joins us to discuss whether online video conversation will be the next big thing.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">834</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0034/gigaom--0034--seesmic--large.h264.m4v"
+                               length="138754771"
+                               type="video/x-m4v"/>
+                    <media:content duration="980"
+                                   medium="video"
+                                   fileSize="138754771"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0034/gigaom--0034--seesmic--large.h264.m4v"
+                                   type="video/x-m4v">
+                        <media:title>Forget Twitter: Seesmic.com creates online video converations</media:title>
+                        <media:description>
+                            Seesmic.com has been described as the video version of Twitter.  Loic Le Meur, fouder and CEO of Seesmic, joins us to discuss whether online video conversation will be the next big thing.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0034/gigaom--0034--seesmic--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0034/gigaom--0034--seesmic--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0034/gigaom--0034--seesmic--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0034/gigaom--0034--seesmic--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/seesmic/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>834</ddn:id>
+                    <ddn:episode_id>834</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Get a Second Life with Philip Rosedale</title>
+                    <link>http://revision3.com/gigaom/secondlife/</link>
+                    <description>
+                        This week, Philip Rosedale, the creator of Second Life discusses the economics and future development cycle for it&#039;s virtual community.
+                    </description>
+                    <content:encoded>
+                        This week, Philip Rosedale, the creator of Second Life discusses the economics and future development cycle for it&#039;s virtual community.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 13 Mar 2008 23:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>960</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        This week, Philip Rosedale, the creator of Second Life discusses the economics and future development cycle for it's virtual community.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">805</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0033/gigaom--0033--secondlife--large.h264.m4v"
+                               length="135794564"
+                               type="video/x-m4v"/>
+                    <media:content duration="960"
+                                   medium="video"
+                                   fileSize="135794564"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0033/gigaom--0033--secondlife--large.h264.m4v"
+                                   type="video/x-m4v">
+                        <media:title>Get a Second Life with Philip Rosedale</media:title>
+                        <media:description>
+                            This week, Philip Rosedale, the creator of Second Life discusses the economics and future development cycle for it&#039;s virtual community.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0033/gigaom--0033--secondlife--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0033/gigaom--0033--secondlife--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0033/gigaom--0033--secondlife--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0033/gigaom--0033--secondlife--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/secondlife/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>805</ddn:id>
+                    <ddn:episode_id>805</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Om&#039;s Return and Brightcove Video</title>
+                    <link>http://revision3.com/gigaom/jallaire/</link>
+                    <description>
+                        This week, Om makes a cameo appearance and gives an update on his latest work life status. Plus, meet Jeremy Allaire, Founder and CEO of Brightcove, an online video distribution company defying the limits of traditional media.
+                    </description>
+                    <content:encoded>
+                        This week, Om makes a cameo appearance and gives an update on his latest work life status. Plus, meet Jeremy Allaire, Founder and CEO of Brightcove, an online video distribution company defying the limits of traditional media.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 07 Mar 2008 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>855</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        This week, Om makes a cameo appearance and gives an update on his latest work life status. Plus, meet Jeremy Allaire, Founder and CEO of Brightcove, an online video distribution company defying the limits of traditional media.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">781</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0032/gigaom--0032--jallaire--large.h264.m4v"
+                               length="120507576"
+                               type="video/x-m4v"/>
+                    <media:content duration="855"
+                                   medium="video"
+                                   fileSize="120507576"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0032/gigaom--0032--jallaire--large.h264.m4v"
+                                   type="video/x-m4v">
+                        <media:title>Om&#039;s Return and Brightcove Video</media:title>
+                        <media:description>
+                            This week, Om makes a cameo appearance and gives an update on his latest work life status. Plus, meet Jeremy Allaire, Founder and CEO of Brightcove, an online video distribution company defying the limits of traditional media.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0032/gigaom--0032--jallaire--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0032/gigaom--0032--jallaire--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0032/gigaom--0032--jallaire--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0032/gigaom--0032--jallaire--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/jallaire/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>781</ddn:id>
+                    <ddn:episode_id>781</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Will the future of HP&#039;s digital imaging  and printing affect your life?</title>
+                    <link>http://revision3.com/gigaom/joshi/</link>
+                    <description>
+                        Meet the Vyomesh (vj) Joshi, the man who helped HP&#039;s imaging and printing group generate $26 billion in annual revenue. Learn how the future of printing could impact your life.
+                    </description>
+                    <content:encoded>
+                        Meet the Vyomesh (vj) Joshi, the man who helped HP&#039;s imaging and printing group generate $26 billion in annual revenue. Learn how the future of printing could impact your life.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 29 Feb 2008 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>792</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>hp, printing, icann, joshi</itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Meet the Vyomesh (vj) Joshi, the man who helped HP's imaging and printing group generate $26 billion in annual revenue. Learn how the future of printing could impact your life.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">761</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0031/gigaom--0031--joshi--large.h264.m4v"
+                               length="111513433"
+                               type="video/x-m4v"/>
+                    <media:content duration="792"
+                                   medium="video"
+                                   fileSize="111513433"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0031/gigaom--0031--joshi--large.h264.m4v"
+                                   type="video/x-m4v">
+                        <media:title>Will the future of HP&#039;s digital imaging  and printing affect your life?</media:title>
+                        <media:description>
+                            Meet the Vyomesh (vj) Joshi, the man who helped HP&#039;s imaging and printing group generate $26 billion in annual revenue. Learn how the future of printing could impact your life.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0031/gigaom--0031--joshi--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0031/gigaom--0031--joshi--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0031/gigaom--0031--joshi--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0031/gigaom--0031--joshi--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/joshi/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords>hp, printing, icann, joshi</media:keywords>
+                                            </media:content>
+                    <ddn:id>761</ddn:id>
+                    <ddn:episode_id>761</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Is Technorati up for sale?</title>
+                    <link>http://revision3.com/gigaom/technorati/</link>
+                    <description>
+                        Technorati&#039;s new CEO, Richard Jalichandra, on blog search, tracking 250 million pieces of tagged social media and not becoming &#039;just another Web 2.0 site&#039;
+                    </description>
+                    <content:encoded>
+                        Technorati&#039;s new CEO, Richard Jalichandra, on blog search, tracking 250 million pieces of tagged social media and not becoming &#039;just another Web 2.0 site&#039;
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 22 Feb 2008 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>606</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Technorati's new CEO, Richard Jalichandra, on blog search, tracking 250 million pieces of tagged social media and not becoming 'just another Web 2.0 site'
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">737</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0030/gigaom--0030--technorati--large.h264.m4v"
+                               length="71357543"
+                               type="video/x-m4v"/>
+                    <media:content duration="606"
+                                   medium="video"
+                                   fileSize="71357543"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0030/gigaom--0030--technorati--large.h264.m4v"
+                                   type="video/x-m4v">
+                        <media:title>Is Technorati up for sale?</media:title>
+                        <media:description>
+                            Technorati&#039;s new CEO, Richard Jalichandra, on blog search, tracking 250 million pieces of tagged social media and not becoming &#039;just another Web 2.0 site&#039;
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0030/gigaom--0030--technorati--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0030/gigaom--0030--technorati--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0030/gigaom--0030--technorati--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0030/gigaom--0030--technorati--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/technorati/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>737</ddn:id>
+                    <ddn:episode_id>737</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Venture Capital vs. Oil: Funding Clean Tech</title>
+                    <link>http://revision3.com/gigaom/cleantech/</link>
+                    <description>
+                        Meet Vinod Khosla, co-founder of Sun Microsystems, a long time venture capitalist and a man determined to help foster clean energy technologies and end our dependence on foreign oil.
+                    </description>
+                    <content:encoded>
+                        Meet Vinod Khosla, co-founder of Sun Microsystems, a long time venture capitalist and a man determined to help foster clean energy technologies and end our dependence on foreign oil.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 14 Feb 2008 23:50:17 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>945</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Meet Vinod Khosla, co-founder of Sun Microsystems, a long time venture capitalist and a man determined to help foster clean energy technologies and end our dependence on foreign oil.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">718</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0029/gigaom--0029--cleantech--large.h264.m4v"
+                               length="127266648"
+                               type="video/quicktime"/>
+                    <media:content duration="945"
+                                   medium="video"
+                                   fileSize="127266648"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0029/gigaom--0029--cleantech--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Venture Capital vs. Oil: Funding Clean Tech</media:title>
+                        <media:description>
+                            Meet Vinod Khosla, co-founder of Sun Microsystems, a long time venture capitalist and a man determined to help foster clean energy technologies and end our dependence on foreign oil.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0029/gigaom--0029--cleantech--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0029/gigaom--0029--cleantech--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0029/gigaom--0029--cleantech--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0029/gigaom--0029--cleantech--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/cleantech/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>718</ddn:id>
+                    <ddn:episode_id>718</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>John Lilly, the new CEO of Mozilla</title>
+                    <link>http://revision3.com/gigaom/mozilladotorg/</link>
+                    <description>
+                        This week meet John Lilly, the new CEO of Mozilla Corporation. Find  out what the organization has in store for 2008 and if they will file for IPO.
+                    </description>
+                    <content:encoded>
+                        This week meet John Lilly, the new CEO of Mozilla Corporation. Find  out what the organization has in store for 2008 and if they will file for IPO.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 07 Feb 2008 23:45:03 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>875</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>microsoft, firefox, mozilla, john lilly, yahoo, merger</itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        This week meet John Lilly, the new CEO of Mozilla Corporation. Find  out what the organization has in store for 2008 and if they will file for IPO.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">699</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0028/gigaom--0028--mozilladotorg--large.h264.m4v"
+                               length="118730552"
+                               type="video/quicktime"/>
+                    <media:content duration="875"
+                                   medium="video"
+                                   fileSize="118730552"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0028/gigaom--0028--mozilladotorg--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>John Lilly, the new CEO of Mozilla</media:title>
+                        <media:description>
+                            This week meet John Lilly, the new CEO of Mozilla Corporation. Find  out what the organization has in store for 2008 and if they will file for IPO.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0028/gigaom--0028--mozilladotorg--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0028/gigaom--0028--mozilladotorg--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0028/gigaom--0028--mozilladotorg--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0028/gigaom--0028--mozilladotorg--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/mozilladotorg/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords>microsoft, firefox, mozilla, john lilly, yahoo, merger</media:keywords>
+                                            </media:content>
+                    <ddn:id>699</ddn:id>
+                    <ddn:episode_id>699</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Free-to-play MMOs profitable?</title>
+                    <link>http://revision3.com/gigaom/micro/</link>
+                    <description>
+                        $50 for a Massively Multiplayer Online game, plus $15 a month? &quot;That model is going away&quot; says K2 Network&#039;s Joshua Hong as MMO&#039;s become a dominate form of entertainment in the 21st Century.
+                    </description>
+                    <content:encoded>
+                        $50 for a Massively Multiplayer Online game, plus $15 a month? &quot;That model is going away&quot; says K2 Network&#039;s Joshua Hong as MMO&#039;s become a dominate form of entertainment in the 21st Century.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 31 Jan 2008 23:48:48 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>943</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        $50 for a Massively Multiplayer Online game, plus $15 a month? &quot;That model is going away&quot; says K2 Network's Joshua Hong as MMO's become a dominate form of entertainment in the 21st Century.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">684</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0027/gigaom--0027--micro--large.h264.m4v"
+                               length="132374267"
+                               type="video/quicktime"/>
+                    <media:content duration="943"
+                                   medium="video"
+                                   fileSize="132374267"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0027/gigaom--0027--micro--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Free-to-play MMOs profitable?</media:title>
+                        <media:description>
+                            $50 for a Massively Multiplayer Online game, plus $15 a month? &quot;That model is going away&quot; says K2 Network&#039;s Joshua Hong as MMO&#039;s become a dominate form of entertainment in the 21st Century.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0027/gigaom--0027--micro--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0027/gigaom--0027--micro--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0027/gigaom--0027--micro--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0027/gigaom--0027--micro--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/micro/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>684</ddn:id>
+                    <ddn:episode_id>684</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Crunchies 2007 Insider Juice</title>
+                    <link>http://revision3.com/gigaom/crunchies/</link>
+                    <description>
+                        Heather Harde, CEO of TechCrunch gives you the inside scoop on last  week&#039;s Crunchies awards
+                    </description>
+                    <content:encoded>
+                        Heather Harde, CEO of TechCrunch gives you the inside scoop on last  week&#039;s Crunchies awards
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 24 Jan 2008 23:40:01 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>820</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>layoff, yahoo!, techcrunch, ebay, meg whitman, crunchies</itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Heather Harde, CEO of TechCrunch gives you the inside scoop on last  week's Crunchies awards
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">669</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0026/gigaom--0026--crunchies--large.h264.m4v"
+                               length="146890436"
+                               type="video/quicktime"/>
+                    <media:content duration="820"
+                                   medium="video"
+                                   fileSize="146890436"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0026/gigaom--0026--crunchies--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Crunchies 2007 Insider Juice</media:title>
+                        <media:description>
+                            Heather Harde, CEO of TechCrunch gives you the inside scoop on last  week&#039;s Crunchies awards
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0026/gigaom--0026--crunchies--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0026/gigaom--0026--crunchies--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0026/gigaom--0026--crunchies--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0026/gigaom--0026--crunchies--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/crunchies/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords>layoff, yahoo!, techcrunch, ebay, meg whitman, crunchies</media:keywords>
+                                            </media:content>
+                    <ddn:id>669</ddn:id>
+                    <ddn:episode_id>669</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Garrett Camp, StumbleUpon</title>
+                    <link>http://revision3.com/gigaom/stumbleupon/</link>
+                    <description>
+                        Got a hot startup and wondering how to flip it? This week StumbleUpon&#039;s founder, Garret Camp, reveals how he went from launch to a $75 million dollar sale to eBay... and what life is like after acquisition.
+                    </description>
+                    <content:encoded>
+                        Got a hot startup and wondering how to flip it? This week StumbleUpon&#039;s founder, Garret Camp, reveals how he went from launch to a $75 million dollar sale to eBay... and what life is like after acquisition.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 18 Jan 2008 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>668</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Got a hot startup and wondering how to flip it? This week StumbleUpon's founder, Garret Camp, reveals how he went from launch to a $75 million dollar sale to eBay... and what life is like after acquisition.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">654</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0025/gigaom--0025--stumbleupon--large.h264.m4v"
+                               length="84709984"
+                               type="video/quicktime"/>
+                    <media:content duration="668"
+                                   medium="video"
+                                   fileSize="84709984"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0025/gigaom--0025--stumbleupon--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Garrett Camp, StumbleUpon</media:title>
+                        <media:description>
+                            Got a hot startup and wondering how to flip it? This week StumbleUpon&#039;s founder, Garret Camp, reveals how he went from launch to a $75 million dollar sale to eBay... and what life is like after acquisition.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0025/gigaom--0025--stumbleupon--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0025/gigaom--0025--stumbleupon--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0025/gigaom--0025--stumbleupon--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0025/gigaom--0025--stumbleupon--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/stumbleupon/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>654</ddn:id>
+                    <ddn:episode_id>654</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Heidi Roizen: From VC To SkinnySongs Writer And Record Producer</title>
+                    <link>http://revision3.com/gigaom/skinnysongs/</link>
+                    <description>
+                        Can a VC maven help you lose weight? Heidi Roizen is betting she can with SkinnySongs.com, an album of songs about weight loss that aren&#039;t corny, and a website that works outside of the music industry.
+                    </description>
+                    <content:encoded>
+                        Can a VC maven help you lose weight? Heidi Roizen is betting she can with SkinnySongs.com, an album of songs about weight loss that aren&#039;t corny, and a website that works outside of the music industry.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 11 Jan 2008 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>595</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Can a VC maven help you lose weight? Heidi Roizen is betting she can with SkinnySongs.com, an album of songs about weight loss that aren't corny, and a website that works outside of the music industry.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">640</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0024/gigaom--0024--skinnysongs--large.h264.m4v"
+                               length="83778648"
+                               type="video/quicktime"/>
+                    <media:content duration="595"
+                                   medium="video"
+                                   fileSize="83778648"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0024/gigaom--0024--skinnysongs--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Heidi Roizen: From VC To SkinnySongs Writer And Record Producer</media:title>
+                        <media:description>
+                            Can a VC maven help you lose weight? Heidi Roizen is betting she can with SkinnySongs.com, an album of songs about weight loss that aren&#039;t corny, and a website that works outside of the music industry.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0024/gigaom--0024--skinnysongs--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0024/gigaom--0024--skinnysongs--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0024/gigaom--0024--skinnysongs--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0024/gigaom--0024--skinnysongs--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/skinnysongs/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>640</ddn:id>
+                    <ddn:episode_id>640</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Clean Tech Investments in 2008 with Draper Fisher Jurvetson</title>
+                    <link>http://revision3.com/gigaom/dfj/</link>
+                    <description>
+                        Clean Tech isn&#039;t a new field for VC. Draper Fisher Jurvetson has been investing in Clean Tech since 2001: Managing Directors  Steve Jurvetson and Raj Atluru expound on what&#039;s big in 2008: Efficiency, Waste Energy, Thin Film Solar, Synthetic Genomics, and more.
+                    </description>
+                    <content:encoded>
+                        Clean Tech isn&#039;t a new field for VC. Draper Fisher Jurvetson has been investing in Clean Tech since 2001: Managing Directors  Steve Jurvetson and Raj Atluru expound on what&#039;s big in 2008: Efficiency, Waste Energy, Thin Film Solar, Synthetic Genomics, and more.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 28 Dec 2007 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>1280</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Clean Tech isn't a new field for VC. Draper Fisher Jurvetson has been investing in Clean Tech since 2001: Managing Directors  Steve Jurvetson and Raj Atluru expound on what's big in 2008: Efficiency, Waste Energy, Thin Film Solar, Synthetic Genomics, and
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">615</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0023/gigaom--0023--dfj--large.h264.m4v"
+                               length="173818026"
+                               type="video/quicktime"/>
+                    <media:content duration="1280"
+                                   medium="video"
+                                   fileSize="173818026"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0023/gigaom--0023--dfj--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Clean Tech Investments in 2008 with Draper Fisher Jurvetson</media:title>
+                        <media:description>
+                            Clean Tech isn&#039;t a new field for VC. Draper Fisher Jurvetson has been investing in Clean Tech since 2001: Managing Directors  Steve Jurvetson and Raj Atluru expound on what&#039;s big in 2008: Efficiency, Waste Energy, Thin Film Solar, Synthetic Genomics, and more.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0023/gigaom--0023--dfj--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0023/gigaom--0023--dfj--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0023/gigaom--0023--dfj--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0023/gigaom--0023--dfj--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/dfj/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>615</ddn:id>
+                    <ddn:episode_id>615</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Technology Trends for 2008</title>
+                    <link>http://revision3.com/gigaom/techtrends/</link>
+                    <description>
+                        As 2007 comes to a close, Om Malik is joined by Dan Farber, of ZDNet, and Rafe Needleman, of CNET&#039;s Webware, to discuss and the top technology trends for 2008.
+                    </description>
+                    <content:encoded>
+                        As 2007 comes to a close, Om Malik is joined by Dan Farber, of ZDNet, and Rafe Needleman, of CNET&#039;s Webware, to discuss and the top technology trends for 2008.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 21 Dec 2007 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>1254</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        As 2007 comes to a close, Om Malik is joined by Dan Farber, of ZDNet, and Rafe Needleman, of CNET's Webware, to discuss and the top technology trends for 2008.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">603</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0022/gigaom--0022--techtrends--large.h264.m4v"
+                               length="171089116"
+                               type="video/quicktime"/>
+                    <media:content duration="1254"
+                                   medium="video"
+                                   fileSize="171089116"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0022/gigaom--0022--techtrends--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Technology Trends for 2008</media:title>
+                        <media:description>
+                            As 2007 comes to a close, Om Malik is joined by Dan Farber, of ZDNet, and Rafe Needleman, of CNET&#039;s Webware, to discuss and the top technology trends for 2008.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0022/gigaom--0022--techtrends--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0022/gigaom--0022--techtrends--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0022/gigaom--0022--techtrends--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0022/gigaom--0022--techtrends--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/techtrends/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>603</ddn:id>
+                    <ddn:episode_id>603</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>MC Hammer - DanceJam</title>
+                    <link>http://revision3.com/gigaom/hammer/</link>
+                    <description>
+                        The hip hop sensation of the early &#039;90s is now a web entrepreneur and poised for success combining user generated video and social networking with DanceJam. Guest host Liz Gannes interviews MC Hammer and learns what it will take to make dance online a success.
+                    </description>
+                    <content:encoded>
+                        The hip hop sensation of the early &#039;90s is now a web entrepreneur and poised for success combining user generated video and social networking with DanceJam. Guest host Liz Gannes interviews MC Hammer and learns what it will take to make dance online a success.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 14 Dec 2007 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>1031</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        The hip hop sensation of the early '90s is now a web entrepreneur and poised for success combining user generated video and social networking with DanceJam. Guest host Liz Gannes interviews MC Hammer and learns what it will take to make dance online a su
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">589</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0021/gigaom--0021--hammer--large.h264.m4v"
+                               length="136850790"
+                               type="video/quicktime"/>
+                    <media:content duration="1031"
+                                   medium="video"
+                                   fileSize="136850790"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0021/gigaom--0021--hammer--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>MC Hammer - DanceJam</media:title>
+                        <media:description>
+                            The hip hop sensation of the early &#039;90s is now a web entrepreneur and poised for success combining user generated video and social networking with DanceJam. Guest host Liz Gannes interviews MC Hammer and learns what it will take to make dance online a success.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0021/gigaom--0021--hammer--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0021/gigaom--0021--hammer--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0021/gigaom--0021--hammer--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0021/gigaom--0021--hammer--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/hammer/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>589</ddn:id>
+                    <ddn:episode_id>589</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Craig Newmark - Craigslist</title>
+                    <link>http://revision3.com/gigaom/craigslist/</link>
+                    <description>
+                        Craigslist killed the newspaper classified ad. Wondering what Craig Newmark might kill next? Om and Joyce chat up the philanthropist on how he&#039;s fighting terrorism, then chime in on Facebook&#039;s &#039;privacy issues&#039;.
+                    </description>
+                    <content:encoded>
+                        Craigslist killed the newspaper classified ad. Wondering what Craig Newmark might kill next? Om and Joyce chat up the philanthropist on how he&#039;s fighting terrorism, then chime in on Facebook&#039;s &#039;privacy issues&#039;.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 07 Dec 2007 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>818</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Craigslist killed the newspaper classified ad. Wondering what Craig Newmark might kill next? Om and Joyce chat up the philanthropist on how he's fighting terrorism, then chime in on Facebook's 'privacy issues'.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">575</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0020/gigaom--0020--craigslist--large.h264.m4v"
+                               length="108013649"
+                               type="video/quicktime"/>
+                    <media:content duration="818"
+                                   medium="video"
+                                   fileSize="108013649"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0020/gigaom--0020--craigslist--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Craig Newmark - Craigslist</media:title>
+                        <media:description>
+                            Craigslist killed the newspaper classified ad. Wondering what Craig Newmark might kill next? Om and Joyce chat up the philanthropist on how he&#039;s fighting terrorism, then chime in on Facebook&#039;s &#039;privacy issues&#039;.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0020/gigaom--0020--craigslist--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0020/gigaom--0020--craigslist--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0020/gigaom--0020--craigslist--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0020/gigaom--0020--craigslist--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/craigslist/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>575</ddn:id>
+                    <ddn:episode_id>575</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Jimmy Wales - Wikipedia and Wikia</title>
+                    <link>http://revision3.com/gigaom/jwales/</link>
+                    <description>
+                        He founded Wikipedia and Wikia... is Jimmy Wales about to launch a Facebook killer? Om and Joyce get the scoop. Plus, how real are the rumors around Google&#039;s gDrive?
+                    </description>
+                    <content:encoded>
+                        He founded Wikipedia and Wikia... is Jimmy Wales about to launch a Facebook killer? Om and Joyce get the scoop. Plus, how real are the rumors around Google&#039;s gDrive?
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 30 Nov 2007 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>856</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        He founded Wikipedia and Wikia... is Jimmy Wales about to launch a Facebook killer? Om and Joyce get the scoop. Plus, how real are the rumors around Google's gDrive?
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">565</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0019/gigaom--0019--jwales--large.h264.m4v"
+                               length="111395550"
+                               type="video/quicktime"/>
+                    <media:content duration="856"
+                                   medium="video"
+                                   fileSize="111395550"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0019/gigaom--0019--jwales--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Jimmy Wales - Wikipedia and Wikia</media:title>
+                        <media:description>
+                            He founded Wikipedia and Wikia... is Jimmy Wales about to launch a Facebook killer? Om and Joyce get the scoop. Plus, how real are the rumors around Google&#039;s gDrive?
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0019/gigaom--0019--jwales--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0019/gigaom--0019--jwales--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0019/gigaom--0019--jwales--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0019/gigaom--0019--jwales--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/jwales/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>565</ddn:id>
+                    <ddn:episode_id>565</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Jim Greer, Kongregate and Jameson Hsu, Mochi Media, monetizing casual games?</title>
+                    <link>http://revision3.com/gigaom/casual/</link>
+                    <description>
+                        Can casual game developers earn enough cash to stick it to the man? Jim  and Jameson discuss how their start-ups help casual game developers thrive through advertising and analytics.
+                    </description>
+                    <content:encoded>
+                        Can casual game developers earn enough cash to stick it to the man? Jim  and Jameson discuss how their start-ups help casual game developers thrive through advertising and analytics.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 23 Nov 2007 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>716</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Can casual game developers earn enough cash to stick it to the man? Jim  and Jameson discuss how their start-ups help casual game developers thrive through advertising and analytics.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">554</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0018/gigaom--0018--casual--large.h264.m4v"
+                               length="88793085"
+                               type="video/quicktime"/>
+                    <media:content duration="716"
+                                   medium="video"
+                                   fileSize="88793085"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0018/gigaom--0018--casual--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Jim Greer, Kongregate and Jameson Hsu, Mochi Media, monetizing casual games?</media:title>
+                        <media:description>
+                            Can casual game developers earn enough cash to stick it to the man? Jim  and Jameson discuss how their start-ups help casual game developers thrive through advertising and analytics.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0018/gigaom--0018--casual--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0018/gigaom--0018--casual--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0018/gigaom--0018--casual--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0018/gigaom--0018--casual--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/casual/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>554</ddn:id>
+                    <ddn:episode_id>554</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Tim Westergren, Pandora, Is Internet Radio Dead?</title>
+                    <link>http://revision3.com/gigaom/westergren/</link>
+                    <description>
+                        &quot;The day that an MP3 player is always connected [to the internet] is the day when broadcast radio vanishes&quot; says Pandora.com&#039;s Tim Westergen, a leader in the fight to save Internet Radio.
+                    </description>
+                    <content:encoded>
+                        &quot;The day that an MP3 player is always connected [to the internet] is the day when broadcast radio vanishes&quot; says Pandora.com&#039;s Tim Westergen, a leader in the fight to save Internet Radio.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 16 Nov 2007 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>952</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        &quot;The day that an MP3 player is always connected [to the internet] is the day when broadcast radio vanishes&quot; says Pandora.com's Tim Westergen, a leader in the fight to save Internet Radio.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">545</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0017/gigaom--0017--westergren--large.h264.m4v"
+                               length="128076647"
+                               type="video/quicktime"/>
+                    <media:content duration="952"
+                                   medium="video"
+                                   fileSize="128076647"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0017/gigaom--0017--westergren--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Tim Westergren, Pandora, Is Internet Radio Dead?</media:title>
+                        <media:description>
+                            &quot;The day that an MP3 player is always connected [to the internet] is the day when broadcast radio vanishes&quot; says Pandora.com&#039;s Tim Westergen, a leader in the fight to save Internet Radio.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0017/gigaom--0017--westergren--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0017/gigaom--0017--westergren--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0017/gigaom--0017--westergren--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0017/gigaom--0017--westergren--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/westergren/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>545</ddn:id>
+                    <ddn:episode_id>545</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Fake Steve Jobs, Dizzywood</title>
+                    <link>http://revision3.com/gigaom/fakesteve/</link>
+                    <description>
+                        &quot;Winners don&#039;t form alliances.&quot; So says Daniel Lyons, aka Fake Steve Jobs. He joins Om and Joyce, along with the founders of Dizzywood, a new virtual world for kids. Are tweens the next big thing?
+                    </description>
+                    <content:encoded>
+                        &quot;Winners don&#039;t form alliances.&quot; So says Daniel Lyons, aka Fake Steve Jobs. He joins Om and Joyce, along with the founders of Dizzywood, a new virtual world for kids. Are tweens the next big thing?
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Fri, 09 Nov 2007 00:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>930</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        &quot;Winners don't form alliances.&quot; So says Daniel Lyons, aka Fake Steve Jobs. He joins Om and Joyce, along with the founders of Dizzywood, a new virtual world for kids. Are tweens the next big thing?
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">533</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0016/gigaom--0016--fakesteve--large.h264.m4v"
+                               length="127558691"
+                               type="video/quicktime"/>
+                    <media:content duration="930"
+                                   medium="video"
+                                   fileSize="127558691"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0016/gigaom--0016--fakesteve--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Fake Steve Jobs, Dizzywood</media:title>
+                        <media:description>
+                            &quot;Winners don&#039;t form alliances.&quot; So says Daniel Lyons, aka Fake Steve Jobs. He joins Om and Joyce, along with the founders of Dizzywood, a new virtual world for kids. Are tweens the next big thing?
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0016/gigaom--0016--fakesteve--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0016/gigaom--0016--fakesteve--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0016/gigaom--0016--fakesteve--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0016/gigaom--0016--fakesteve--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/fakesteve/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>533</ddn:id>
+                    <ddn:episode_id>533</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Saul Klein and VC Jargon</title>
+                    <link>http://revision3.com/gigaom/seedcamp/</link>
+                    <description>
+                        Seedcamp cofounder Saul Klein chats with Om about European markets, Niklas Zennstrom&#039;s exit from Skype and Seedcamp. Then Om and Joyce explain VC lingo in layman&#039;s terms
+                    </description>
+                    <content:encoded>
+                        Seedcamp cofounder Saul Klein chats with Om about European markets, Niklas Zennstrom&#039;s exit from Skype and Seedcamp. Then Om and Joyce explain VC lingo in layman&#039;s terms
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 01 Nov 2007 23:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>1228</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Seedcamp cofounder Saul Klein chats with Om about European markets, Niklas Zennstrom's exit from Skype and Seedcamp. Then Om and Joyce explain VC lingo in layman's terms
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">522</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0015/gigaom--0015--seedcamp--large.h264.m4v"
+                               length="165606119"
+                               type="video/quicktime"/>
+                    <media:content duration="1228"
+                                   medium="video"
+                                   fileSize="165606119"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0015/gigaom--0015--seedcamp--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Saul Klein and VC Jargon</media:title>
+                        <media:description>
+                            Seedcamp cofounder Saul Klein chats with Om about European markets, Niklas Zennstrom&#039;s exit from Skype and Seedcamp. Then Om and Joyce explain VC lingo in layman&#039;s terms
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0015/gigaom--0015--seedcamp--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0015/gigaom--0015--seedcamp--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0015/gigaom--0015--seedcamp--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0015/gigaom--0015--seedcamp--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/seedcamp/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>522</ddn:id>
+                    <ddn:episode_id>522</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Richard Moross CEO and founder of moo.com</title>
+                    <link>http://revision3.com/gigaom/moross/</link>
+                    <description>
+                        Need custom made business cards? This week, Om sits down with Richard Moross, CEO and founder of moo.com. Get the inside scoop and learn how to print personalized business cards for only $20 bucks.
+                    </description>
+                    <content:encoded>
+                        Need custom made business cards? This week, Om sits down with Richard Moross, CEO and founder of moo.com. Get the inside scoop and learn how to print personalized business cards for only $20 bucks.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 25 Oct 2007 23:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>899</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Need custom made business cards? This week, Om sits down with Richard Moross, CEO and founder of moo.com. Get the inside scoop and learn how to print personalized business cards for only $20 bucks.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">510</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0014/gigaom--0014--moross--large.h264.m4v"
+                               length="121805550"
+                               type="video/quicktime"/>
+                    <media:content duration="899"
+                                   medium="video"
+                                   fileSize="121805550"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0014/gigaom--0014--moross--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Richard Moross CEO and founder of moo.com</media:title>
+                        <media:description>
+                            Need custom made business cards? This week, Om sits down with Richard Moross, CEO and founder of moo.com. Get the inside scoop and learn how to print personalized business cards for only $20 bucks.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0014/gigaom--0014--moross--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0014/gigaom--0014--moross--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0014/gigaom--0014--moross--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0014/gigaom--0014--moross--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/moross/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>510</ddn:id>
+                    <ddn:episode_id>510</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Wine Library TV&#039;s Gary Vaynerchuk</title>
+                    <link>http://revision3.com/gigaom/wine/</link>
+                    <description>
+                        Wine lover? This week, Om and Joyce chat with laid back wine connoisseur Gary Vaynerchuk of Wine Library TV and Corkd.com. Plus, Gary shares his personal guide to consuming wine in one sitting.
+                    </description>
+                    <content:encoded>
+                        Wine lover? This week, Om and Joyce chat with laid back wine connoisseur Gary Vaynerchuk of Wine Library TV and Corkd.com. Plus, Gary shares his personal guide to consuming wine in one sitting.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 18 Oct 2007 23:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>798</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Wine lover? This week, Om and Joyce chat with laid back wine connoisseur Gary Vaynerchuk of Wine Library TV and Corkd.com. Plus, Gary shares his personal guide to consuming wine in one sitting.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">500</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0013/gigaom--0013--wine--large.h264.m4v"
+                               length="110505327"
+                               type="video/quicktime"/>
+                    <media:content duration="798"
+                                   medium="video"
+                                   fileSize="110505327"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0013/gigaom--0013--wine--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Wine Library TV&#039;s Gary Vaynerchuk</media:title>
+                        <media:description>
+                            Wine lover? This week, Om and Joyce chat with laid back wine connoisseur Gary Vaynerchuk of Wine Library TV and Corkd.com. Plus, Gary shares his personal guide to consuming wine in one sitting.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0013/gigaom--0013--wine--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0013/gigaom--0013--wine--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0013/gigaom--0013--wine--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0013/gigaom--0013--wine--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/wine/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>500</ddn:id>
+                    <ddn:episode_id>500</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Google&#039;s Marissa Mayer</title>
+                    <link>http://revision3.com/gigaom/mmayer/</link>
+                    <description>
+                        Do you use Google? You&#039;ll want to watch Google&#039;s VP of Search Products, Marissa Mayer, talk about acquiring tech startups vs. developing tech in house, Google&#039;s APIs and, of course, the GPhone.
+                    </description>
+                    <content:encoded>
+                        Do you use Google? You&#039;ll want to watch Google&#039;s VP of Search Products, Marissa Mayer, talk about acquiring tech startups vs. developing tech in house, Google&#039;s APIs and, of course, the GPhone.
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 11 Oct 2007 23:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>2048</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Do you use Google? You'll want to watch Google's VP of Search Products, Marissa Mayer, talk about acquiring tech startups vs. developing tech in house, Google's APIs and, of course, the GPhone.
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">488</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0012/gigaom--0012--mmayer--large.h264.m4v"
+                               length="275791892"
+                               type="video/quicktime"/>
+                    <media:content duration="2048"
+                                   medium="video"
+                                   fileSize="275791892"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0012/gigaom--0012--mmayer--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Google&#039;s Marissa Mayer</media:title>
+                        <media:description>
+                            Do you use Google? You&#039;ll want to watch Google&#039;s VP of Search Products, Marissa Mayer, talk about acquiring tech startups vs. developing tech in house, Google&#039;s APIs and, of course, the GPhone.
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0012/gigaom--0012--mmayer--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0012/gigaom--0012--mmayer--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0012/gigaom--0012--mmayer--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0012/gigaom--0012--mmayer--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/mmayer/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>488</ddn:id>
+                    <ddn:episode_id>488</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                            <item>
+                    <title>Silcon Valley&#039;s Own Microsoft</title>
+                    <link>http://revision3.com/gigaom/lewin/</link>
+                    <description>
+                        Microsoft&#039;s Dan&#039;l Lewin pays Om and Joyce a candid visit on set about his role with Silicon Valley&#039;s top companies.  Lewin gives us insight to Microsoft&#039;s future involvement with Facebook and what his role is in cultivating technology from conception to execution.  Where&#039;s Microsoft money going and how can you get it?
+                    </description>
+                    <content:encoded>
+                        Microsoft&#039;s Dan&#039;l Lewin pays Om and Joyce a candid visit on set about his role with Silicon Valley&#039;s top companies.  Lewin gives us insight to Microsoft&#039;s future involvement with Facebook and what his role is in cultivating technology from conception to execution.  Where&#039;s Microsoft money going and how can you get it?
+                    </content:encoded>
+                    <author>feedback@revision3.com (Revision3)</author>
+                    <pubDate>Thu, 04 Oct 2007 23:00:00 GMT</pubDate>
+                    <itunes:image href="http://videos.revision3.com/revision3/images/shows/gigaom/gigaom_itunes.jpg"/>
+                    <itunes:duration>1635</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:author>Revision3</itunes:author>
+                    <itunes:subtitle>
+                        Microsoft's Dan'l Lewin pays Om and Joyce a candid visit on set about his role with Silicon Valley's top companies.  Lewin gives us insight to Microsoft's future involvement with Facebook and what his role is in cultivating technology from conception to 
+                    </itunes:subtitle>
+                    <guid isPermaLink="false">475</guid>
+                    <enclosure url="http://videos.revision3.com/revision3/web/gigaom/0011/gigaom--0011--lewin--large.h264.m4v"
+                               length="219566841"
+                               type="video/quicktime"/>
+                    <media:content duration="1635"
+                                   medium="video"
+                                   fileSize="219566841"
+                                   url="http://videos.revision3.com/revision3/web/gigaom/0011/gigaom--0011--lewin--large.h264.m4v"
+                                   type="video/quicktime">
+                        <media:title>Silcon Valley&#039;s Own Microsoft</media:title>
+                        <media:description>
+                            Microsoft&#039;s Dan&#039;l Lewin pays Om and Joyce a candid visit on set about his role with Silicon Valley&#039;s top companies.  Lewin gives us insight to Microsoft&#039;s future involvement with Facebook and what his role is in cultivating technology from conception to execution.  Where&#039;s Microsoft money going and how can you get it?
+                        </media:description>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0011/gigaom--0011--lewin--large.thumb.jpg" width="1280"
+                                             height="720"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0011/gigaom--0011--lewin--marge.thumb.jpg" width="640"
+                                             height="360"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0011/gigaom--0011--lewin--medium.thumb.jpg" width="300"
+                                             height="169"/>
+                                                    <media:thumbnail url="http://videos.revision3.com/revision3/images/shows/gigaom/0011/gigaom--0011--lewin--mini.thumb.jpg" width="100" height="100"/>
+                                                <media:player url="http://revision3.com/gigaom/lewin/"/>
+                        <media:rating>nonadult</media:rating>
+                                                    <media:keywords/>
+                                            </media:content>
+                    <ddn:id>475</ddn:id>
+                    <ddn:episode_id>475</ddn:episode_id>
+                    <ddn:special>0</ddn:special>
+                    <ddn:expires>2016-05-13 15:54:32</ddn:expires>
+                </item>
+                </channel>
+</rss>

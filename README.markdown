@@ -2,7 +2,7 @@ feedparser-clj
 ==============
 
 Parse RSS/Atom feeds with a simple, clojure-friendly API.
-Uses the Java ROME library, wrapped in StructMaps.
+Uses the Java ROME library, wrapped in Clojure records.
 
 Status
 ------
@@ -33,11 +33,16 @@ The following REPL session should give an idea about the capabilities and usage 
 
 Load the package into your namespace:
 
-    user=> (ns user (:use feedparser-clj.core) (:require [clojure.contrib.string :as string]))
+    user=> (require '[feedparser-clj.core :refer [parse-feed]])
 
-Retrieve and parse a feed: 
+Retrieve and parse a feed:
 
-    user=> (def f (parse-feed "http://gregheartsfield.com/atom.xml"))
+    user=> (def f (parse-feed "https://clojure.org/feed.xml"))
+
+`f` is now a map that can be accessed by key to retrieve feed information:
+
+    user=> (keys f)
+    (:authors :categories :contributors :copyright :description :encoding :entries :feed-type :image :language :link :entry-links :published-date :title :uri :generator)
 
 `parse-feed` also accepts a java.io.InputStream for reading from a file or other sources (see [clojure.java.io/input-stream](http://richhickey.github.com/clojure/clojure.java.io-api.html#clojure.java.io/input-stream)):
 
@@ -52,10 +57,6 @@ Retrieve and parse a feed:
                                      clojure.java.io/input-stream)]
                     (parse-feed feed-stream)))
 
-`f` is now a map that can be accessed by key to retrieve feed information:
-
-    user=> (keys f)
-    (:authors :categories :contributors :copyright :description :encoding :entries :feed-type :image :language :link :entry-links :published-date :title :uri)
 
 A key applied to the feed gives the value, or nil if it was not defined for the feed.
 
@@ -92,22 +93,19 @@ Find the most recently updated entry's title:
     user=> (first (map :title (reverse (sort-by :updated-date (:entries f)))))
     "Version Control Diagrams with TikZ"
 
-Compute what percentage of entries have the word "haskell" in the body (uses `clojure.contrib.string`):
-
-    user=> (let [es (:entries f)] 
-               (* 100.0 (/ (count (filter #(string/substring? "haskell" 
-                   (:value (first (:contents %)))) es))
-               (count es))))
-    55.55555555555556
-
 Installation
 ------------
 
 This library uses the [Leiningen](http://github.com/technomancy/leiningen#readme) build tool.
 
-ROME and JDOM are required dependencies, which may have to be manually retrieved and installed with Maven.  After that, simply clone this repository, and run:
+Simply add the following dependency in your project.clj.
 
-    lein install
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.scsibug/feedparser-clj.svg)](https://clojars.org/org.clojars.scsibug/feedparser-clj)
+
+Tests
+-----
+
+Run `lein test`.
 
 License
 -------

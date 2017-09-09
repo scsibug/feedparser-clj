@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://itunes.apple.com/us/rss/topmusicvideos/limit=1/explicit=true/xml</id><title>iTunes Store: Top Music Videos</title><updated>2016-03-16T08:39:21-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&amp;id=38&amp;popId=5"/><link rel="self" href="https://itunes.apple.com/us/rss/topmusicvideos/limit=1/explicit=true/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+
+  <entry>
+    <updated>2016-03-16T08:39:21-07:00</updated>
+    <id im:id="1087146282">https://itunes.apple.com/us/music-video/work-feat.-drake/id1087146282?uo=2</id>
+    <title>Work (feat. Drake) - Rihanna</title>
+    <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/music-video/work-feat.-drake/id1087146282?uo=2"/>
+    <category im:id="1614" term="Pop" scheme="https://itunes.apple.com/us/genre/music-videos-pop/id1614?uo=2" label="Pop"/>
+    <link title="Preview" rel="enclosure" type="video/x-m4v" href="http://a1186.phobos.apple.com/us/r1000/174/Video69/v4/47/89/88/478988bf-2884-c26b-3e18-6cc28d8aa012/mzvf_4476107880866214206.640x472.h264lc.U.p.m4v" im:assetType="preview"><im:duration>30000.0</im:duration></link>
+    <im:name>Work (feat. Drake)</im:name>
+    <im:contentType term="Music Video" label="Music Video"/>
+    <im:artist href="https://itunes.apple.com/us/artist/rihanna/id63346553?uo=2">Rihanna</im:artist>
+    <im:price amount="1.99000" currency="USD">$1.99</im:price>
+    <im:image height="53" awesomeAttri="omg, awesome value">http://is2.mzstatic.com/image/thumb/Video69/v4/3e/bc/99/3ebc9992-5fa0-8115-f474-7410f1e49448/vidtrkimg_00851365006868_1_1.jpg/71x53bb-85.jpg</im:image>
+    <im:image height="60">http://is3.mzstatic.com/image/thumb/Video69/v4/3e/bc/99/3ebc9992-5fa0-8115-f474-7410f1e49448/vidtrkimg_00851365006868_1_1.jpg/80x60bb-85.jpg</im:image>
+    <im:image height="100">http://is4.mzstatic.com/image/thumb/Video69/v4/3e/bc/99/3ebc9992-5fa0-8115-f474-7410f1e49448/vidtrkimg_00851365006868_1_1.jpg/100x100bb-85.jpg</im:image>
+    <im:releaseDate label="February 23, 2016">2016-02-23T00:00:00-07:00</im:releaseDate>
+    <rights>&#8471; 2016 Westbury Road Entertainment Distributed by Roc Nation Records</rights>
+    <content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+      &lt;tr&gt;
+      &lt;td&gt;
+      &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+      &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+      &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+      &lt;a href=&quot;https://itunes.apple.com/us/music-video/work-feat.-drake/id1087146282?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Rihanna - Work (feat. Drake)  artwork&quot; src=&quot;http://is5.mzstatic.com/image/thumb/Video69/v4/3e/bc/99/3ebc9992-5fa0-8115-f474-7410f1e49448/vidtrkimg_00851365006868_1_1.jpg/133x100bb-85.jpg&quot; /&gt;&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+      &lt;td width=&quot;95%&quot;&gt;
+
+      &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/music-video/work-feat.-drake/id1087146282?uo=2&quot;&gt;Work (feat. Drake)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+      &lt;a href=&quot;https://itunes.apple.com/us/artist/rihanna/id63346553?uo=2&quot;&gt;Rihanna&lt;/a&gt;
+
+      &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+      &lt;br/&gt;
+      &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/music-videos-pop/id1614?uo=2&quot;&gt;Pop&lt;/a&gt;
+
+      &lt;br/&gt;
+      &lt;b&gt;Price:&lt;/b&gt; $1.99
+
+      &lt;br/&gt;
+      &lt;b&gt;Release Date:&lt;/b&gt; February 23, 2016
+
+      &lt;/font&gt;
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+      &lt;td&gt;
+
+
+
+      &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2016 Westbury Road Entertainment Distributed by Roc Nation Records&lt;/font&gt;
+
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </content>
+  </entry>
+</feed>
