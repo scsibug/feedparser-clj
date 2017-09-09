@@ -150,7 +150,7 @@
         (testing "first entry"
           (testing "has some correct non-media-rss data"
             (is (= (:title bb-news-first-entry) "Shocking news title shocks the news reader (1)"))
-            (is (= (:authors bb-news-first-entry) #{"Bonnie Cao"}))
+            (is (= (:author bb-news-first-entry) "Bonnie Cao"))
             (is (= (-> bb-news-first-entry :description :value) "So shock, much tears")))
 
           (testing "has correct media-rss data..."
@@ -177,7 +177,7 @@
         (testing "first entry"
           (testing "has some correct non-media-rss data"
             (is (= (:title bb-news-first-entry) "Is Sears or Gitmo a Worse Problem?: Shelly Banjo & Tobin Harshaw"))
-            (is (= (-> bb-news-first-entry :authors set) #{"Shelly Banjo and Tobin Harshaw"}))
+            (is (= (:author bb-news-first-entry) "Shelly Banjo and Tobin Harshaw"))
             (is (= (->> bb-news-first-entry :description :value) "<p>blah blah blah, I am the description :)</p>")))
 
           (testing "has correct media-rss data..."

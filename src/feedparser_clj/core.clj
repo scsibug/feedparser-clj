@@ -276,7 +276,8 @@
 
 (defn make-entry "Create feed entry struct from SyndEntry"
   [^SyndEntry e]
-  (map->entry {:authors (map make-person (seq (.getAuthors e)))
+  (map->entry {:author (.getAuthor e)
+               :authors (map make-person (seq (.getAuthors e)))
                :categories (map make-category (seq (.getCategories e)))
                :contents (map make-content (seq (.getContents e)))
                :media-rss-data (when-let [media-module (.getModule e "http://search.yahoo.com/mrss/")]
@@ -292,7 +293,8 @@
 
 (defn make-feed "Create a feed struct from a SyndFeed"
   [^SyndFeed f]
-  (map->feed  {:authors (map make-person (seq (.getAuthors f)))
+  (map->feed  {:author (.getAuthor f)
+               :authors (map make-person (seq (.getAuthors f)))
                :categories (map make-category (seq (.getCategories f)))
                :contributors (map make-person (seq (.getContributors f)))
                :copyright (.getCopyright f)
@@ -409,6 +411,7 @@
                                               {:source source :type (type source)})))
                       parse-internal)
         extra-maps (extra-elements synd-feed extra)]
+    (println "extra" extra-maps)
     (-> (make-feed synd-feed)
         (add-extra-to-entries extra-maps))))
 
