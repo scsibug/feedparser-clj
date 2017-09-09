@@ -37,7 +37,7 @@ Load the package into your namespace:
 
 Retrieve and parse a feed: 
 
-    user=> (def f (parse-feed "http://gregheartsfield.com/atom.xml"))
+    user=> (def f (parse-feed "https://clojure.org/feed.xml"))
 
 `parse-feed` also accepts a java.io.InputStream for reading from a file or other sources (see [clojure.java.io/input-stream](http://richhickey.github.com/clojure/clojure.java.io-api.html#clojure.java.io/input-stream)):
 
