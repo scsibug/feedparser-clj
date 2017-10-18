@@ -1,5 +1,6 @@
 feedparser-clj
 ==============
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.quan/feedparser-clj.svg)](https://clojars.org/org.clojars.quan/feedparser-clj)
 
 Parse RSS/Atom feeds with a simple, clojure-friendly API.
 Uses the Java ROME library, wrapped in StructMaps.
