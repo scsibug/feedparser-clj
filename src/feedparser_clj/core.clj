@@ -13,29 +13,27 @@
                   enclosures link published-date title updated-date url])
 
 (defrecord enclosure [length type uri])
+(defrecord person    [email name uri])
+(defrecord category  [name taxonomy-uri])
+(defrecord content   [type value])
+(defrecord image     [description link title url])
+(defrecord link      [href hreflang length rel title type])
 
-(defrecord person [email name uri])
-
-(defrecord category [name taxonomy-uri])
-
-(defrecord content [type value])
-
-(defrecord image [description link title url])
-
-(defrecord link [href hreflang length rel title type])
-
-(defn obj->enclosure "Create enclosure struct from SyndEnclosure"
+(defn- obj->enclosure
+  "Create enclosure struct from SyndEnclosure"
   [e]
   (map->enclosure {:length (.getLength e)
                    :type   (.getType e)
                    :url    (.getUrl e)}))
 
-(defn obj->content "Create content struct from SyndContent"
+(defn- obj->content
+  "Create content struct from SyndContent"
   [c]
   (map->content {:type  (.getType c)
                  :value (.getValue c)}))
 
-(defn obj->link "Create link struct from SyndLink"
+(defn- obj->link
+  "Create link struct from SyndLink"
   [l]
   (map->link {:href     (.getHref l)
               :hreflang (.getHreflang l)
@@ -44,25 +42,29 @@
               :title    (.getTitle l)
               :type     (.getType l)}))
 
-(defn obj->category "Create category struct from SyndCategory"
+(defn- obj->category
+  "Create category struct from SyndCategory"
   [c]
   (map->category {:name         (.getName c)
                   :taxonomy-uri (.getTaxonomyUri c)}))
 
-(defn obj->person "Create a person struct from SyndPerson"
+(defn- obj->person
+  "Create a person struct from SyndPerson"
   [sp]
   (map->person {:email (.getEmail sp)
                 :name  (.getName sp)
                 :uri   (.getUri sp)}))
 
-(defn obj->image "Create image struct from SyndImage"
+(defn- obj->image
+  "Create image struct from SyndImage"
   [i]
   (map->image {:description (.getDescription i)
                :link        (.getLink i)
                :title       (.getTitle i)
                :url         (.getUrl i)}))
 
-(defn obj->entry "Create feed entry struct from SyndEntry"
+(defn- obj->entry
+  "Create feed entry struct from SyndEntry"
   [e]
   (map->entry {:authors        (map obj->person    (seq (.getAuthors e)))
                :categories     (map obj->category  (seq (.getCategories e)))
@@ -77,7 +79,8 @@
                :updated-date   (.getUpdatedDate e)
                :uri            (.getUri e)}))
 
-(defn obj->feed "Create a feed struct from a SyndFeed"
+(defn- obj->feed
+  "Create a feed struct from a SyndFeed"
   [f]
   (map->feed  {:authors        (map obj->person   (seq (.getAuthors f)))
                :categories     (map obj->category (seq (.getCategories f)))
