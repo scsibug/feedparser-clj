@@ -104,17 +104,15 @@
         syndfeed  (.build feedinput xmlreader)]
     (obj->feed syndfeed)))
 
-(defn string->url [s]
-  (if (string? s)
-    (URL. s)
-    s))
+(defn ->url [s]
+  (if (string? s) (URL. s) s))
 
 (defn parse-feed "Get and parse a feed from a URL"
   ([feedsource]
-   (parse-internal (XmlReader. (string->url feedsource))))
+   (parse-internal (XmlReader. (->url feedsource))))
   ([feedsource content-type]
-   (parse-internal (XmlReader. (string->url feedsource) content-type)))
+   (parse-internal (XmlReader. (->url feedsource) content-type)))
   ([feedsource content-type lenient]
-   (parse-internal (XmlReader. (string->url feedsource) content-type lenient)))
+   (parse-internal (XmlReader. (->url feedsource) content-type lenient)))
   ([feedsource content-type lenient default-encoding]
-   (parse-internal (XmlReader. (string->url feedsource) content-type lenient default-encoding))))
+   (parse-internal (XmlReader. (->url feedsource) content-type lenient default-encoding))))
