@@ -1,3 +1,4 @@
-/lib/
-/feedparser-clj-0.3.jar
-/pom.xml
+target/
+.nrepl-port
+.lein-failures
+.lein-repl-history

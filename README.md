@@ -1,4 +1,4 @@
-feedparser-clj
+feedparser-clj [![Build Status](https://travis-ci.org/Gonzih/feedparser-clj.svg?branch=master)](https://travis-ci.org/Gonzih/feedparser-clj)
 ==============
 
 Parse RSS/Atom feeds with a simple, clojure-friendly API.
@@ -33,9 +33,9 @@ The following REPL session should give an idea about the capabilities and usage 
 
 Load the package into your namespace:
 
-    user=> (ns user (:use feedparser-clj.core) (:require [clojure.contrib.string :as string]))
+    user=> (ns user (:require [feedparser-clj.core] [clojure.string :as string]))
 
-Retrieve and parse a feed: 
+Retrieve and parse a feed:
 
     user=> (def f (parse-feed "http://gregheartsfield.com/atom.xml"))
 
@@ -55,7 +55,7 @@ Retrieve and parse a feed:
 `f` is now a map that can be accessed by key to retrieve feed information:
 
     user=> (keys f)
-    (:authors :categories :contributors :copyright :description :encoding :entries :feed-type :image :language :link :entry-links :published-date :title :uri)
+    (:authors :author :categories :contributors :copyright :description :encoding :entries :feed-type :image :language :link :entry-links :published-date :title :uri)
 
 A key applied to the feed gives the value, or nil if it was not defined for the feed.
 
@@ -92,10 +92,10 @@ Find the most recently updated entry's title:
     user=> (first (map :title (reverse (sort-by :updated-date (:entries f)))))
     "Version Control Diagrams with TikZ"
 
-Compute what percentage of entries have the word "haskell" in the body (uses `clojure.contrib.string`):
+Compute what percentage of entries have the word "haskell" in the body (uses `clojure.string`):
 
-    user=> (let [es (:entries f)] 
-               (* 100.0 (/ (count (filter #(string/substring? "haskell" 
+    user=> (let [es (:entries f)]
+               (* 100.0 (/ (count (filter #(string/substring? "haskell"
                    (:value (first (:contents %)))) es))
                (count es))))
     55.55555555555556
